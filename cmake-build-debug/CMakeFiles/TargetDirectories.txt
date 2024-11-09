@@ -1,0 +1,3 @@
+/Users/riyad/jad-s-show-rlrrrrr/cmake-build-debug/CMakeFiles/jad_s_show.dir
+/Users/riyad/jad-s-show-rlrrrrr/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/riyad/jad-s-show-rlrrrrr/cmake-build-debug/CMakeFiles/rebuild_cache.dir

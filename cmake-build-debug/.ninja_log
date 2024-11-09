@@ -1,0 +1,13 @@
+# ninja log v6
+10	3615	1731132747739786794	CMakeFiles/jad_s_show.dir/show/MovieType.cpp.o	22cd62ab2c77161a
+34	2703	1731132904616323932	CMakeFiles/jad_s_show.dir/show/ShowType.cpp.o	755ea37f45c0180f
+27	2524	1731134040107459616	CMakeFiles/jad_s_show.dir/show/ShowType.cpp.o	755ea37f45c0180f
+28	2669	1731134040107957874	CMakeFiles/jad_s_show.dir/customer/Spectator.cpp.o	5b6c73eb757d047f
+27	2805	1731134040106721529	CMakeFiles/jad_s_show.dir/main.cpp.o	e4242400c8cda3ab
+35	3220	1731134321641779637	CMakeFiles/jad_s_show.dir/customer/Spectator.cpp.o	5b6c73eb757d047f
+33	3327	1731134321639658664	CMakeFiles/jad_s_show.dir/main.cpp.o	e4242400c8cda3ab
+28	2530	1731134366728521897	CMakeFiles/jad_s_show.dir/main.cpp.o	e4242400c8cda3ab
+49	2420	1731134506156955346	CMakeFiles/jad_s_show.dir/customer/Spectator.cpp.o	5b6c73eb757d047f
+43	2868	1731134557924997045	CMakeFiles/jad_s_show.dir/customer/Spectator.cpp.o	5b6c73eb757d047f
+42	2928	1731134557924189969	CMakeFiles/jad_s_show.dir/main.cpp.o	e4242400c8cda3ab
+2928	3031	1731134560810962840	jad_s_show	556e78ddd47a21ce
